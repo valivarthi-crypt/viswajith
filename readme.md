@@ -41,3 +41,20 @@
 2> Trust + Verify
 3> Metrics for Feedback
 4> Check if well Behaved
+
+# Wall of confusion
+
+1> Develop - Operations
+
+# Communication (Blameless postmortem,Transperant Uptime)
+
+1> Prevent the similar outage,RC Analysis,Detection of Failures in Future(BP)
+2> a.Admit Failure b.Sound like Human c.Communication Channel d.Be Authentic
+
+# Collab
+
+1> Social Skills
+2> Some-one else job is easy
+3> Diff Skillsets together
+4> Optimal Team Size
+5> Chat Ops (Slack,Add in Push Notification) (Kuba)
