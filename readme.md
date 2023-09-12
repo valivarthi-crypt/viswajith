@@ -133,3 +133,32 @@
   - Hashicrop Terraform
   - Ubuntu JUJU
   - Chef,Pupper,CF Engine,Ansible
+
+---
+
+## #Devops Foundations
+
+- CD (Built on every Code Commit)
+- CI (Integration And Acceptance Test on SC Check in)
+- CDeployment (Deployed automatically to Prod).
+
+---
+
+## #Ci
+
+Code -=>
+Build =->
+Unit Tests=-> Code Validation-=>Packaging=->Artifact
+
+- Builds should take less time
+- Commit Small Bits
+- Dont leave build broken
+- Trunk based development flow
+- build should log and artifact
+
+---
+
+## #Cd
+
+- Built once and immutable
+- Auditability
