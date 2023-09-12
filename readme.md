@@ -1,60 +1,77 @@
-<-----------------Devops Fundamentals----------------->
-0000Day0000
+# Devops Fundamentals
 
-# Core Values of Devops
+---
 
-1> Culture
-2> Automation
-3> Measure
-4> Sharing
+## # Core Values of Devops
 
-# Three Principles Of Devops
+    		1. Culture
+    		2. Automation
+    		3. Measure
+    		4.  Sharing
 
-1> System Thinking (Concept to Cash)
-2> Amplifying Feedback Loops (ipofi) (Short Effective Feedback Loops)
-3> Continuous Experimentation and Continuous Learning (CE&L)
+---
 
-# Devops Methodology
+## # Three Principles Of Devops
 
-1> People -> Process -> Tools
-2> Continuous Delivery (Develop->Test->Deploy -> Release(on small batches))
-3> Lean (Small Batches -> Work in progress limits -> Feedback Loops -> Visualization)
-4> Change Control (Visual Ops,CI)
-5> Infrastructure As A Code (Make System as Programmable)
+- System Thinking (Concept to Cash)
+- Amplifying Feedback Loops (ipofi) (Short Effective Feedback Loops)
+- Continuous Experimentation and Continuous Learning (CE&L)
 
-# Devops Pratices
+---
 
-1> Incidents Command System
-2> Devolopers on Call
-3> Staus Pages (Communication)
-4> Blameless Postmortems
-5> Embedded Teams ( Add Op+Dev together )
-6> Cloud (IaaC)
-7> Andon Codes
-8> Dependency Injection
-9> Blue Green Deployments
-10> Chaos Monkey
+## # Devops Methodology
 
-# Tools
+- People -> Process -> Tools
+- Continuous Delivery (Develop->Test->Deploy -> Release(on small batches))
+- Lean (Small Batches -> Work in progress limits -> Feedback Loops -> Visualization)
+- Change Control (Visual Ops,CI)
+- Infrastructure As A Code (Make System as Programmable)
 
-1> Only Ui No
-2> Trust + Verify
-3> Metrics for Feedback
-4> Check if well Behaved
+---
 
-# Wall of confusion
+## # Devops Pratices
 
-1> Develop - Operations
+- Incidents Command System
+- Devolopers on Call
+- Staus Pages (Communication)
+- Blameless Postmortems
+- Embedded Teams ( Add Op+Dev together )
+- Cloud (IaaC)
+- Andon Codes
+- Dependency Injection
+- Blue Green Deployments
+- Chaos Monkey
 
-# Communication (Blameless postmortem,Transperant Uptime)
+---
 
-1> Prevent the similar outage,RC Analysis,Detection of Failures in Future(BP)
-2> a.Admit Failure b.Sound like Human c.Communication Channel d.Be Authentic
+## # Tools
 
-# Collab
+- Only Ui No
+- Trust + Verify
+- Metrics for Feedback
+- Check if well Behaved
 
-1> Social Skills
-2> Some-one else job is easy
-3> Diff Skillsets together
-4> Optimal Team Size
-5> Chat Ops (Slack,Add in Push Notification) (Kuba)
+---
+
+## # Wall of confusion
+
+- Develop - Operations
+
+---
+
+## # Communication (Blameless postmortem,Transperant Uptime)
+
+- Prevent the similar outage,RC Analysis,Detection of Failures in Future(BP)
+- a.Admit Failure b.Sound like Human c.Communication Channel d.Be Authentic
+
+---
+
+## # Collab
+
+- Social Skills
+- Some-one else job is easy
+- Diff Skillsets together
+- Optimal Team Size
+- Chat Ops (Slack,Add in Push Notification) (Kuba)
+
+---
