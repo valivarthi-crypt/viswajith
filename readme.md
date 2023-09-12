@@ -4,10 +4,10 @@
 
 ## # Core Values of Devops
 
-    		1. Culture
-    		2. Automation
-    		3. Measure
-    		4.  Sharing
+1. Culture
+2. Automation
+3. Measure
+4. Sharing
 
 ---
 
@@ -75,3 +75,55 @@
 - Chat Ops (Slack,Add in Push Notification) (Kuba)
 
 ---
+
+## #Kaizen
+
+- Plan => Do => Check => Act
+- When issue just go see issue
+- Not enough Time
+- Fish Bone Diagram
+- Its never human Its Process
+
+---
+
+## #Agile
+
+- Iterative
+- Frequent intervable delivarables
+- No Scope of Op
+
+---
+
+## #Lean
+
+- Activities that have Value,Othr - WAste
+- Waste and Compli Waste
+- Putting efforts on non requiremets
+
+---
+
+## ITIL SDLC
+
+- Incident,Catalouge,Knowledge Management
+- Waterfall,
+
+---
+
+## IaaC
+
+- AWS CloudFormation
+- Virtualization
+- Automation
+- Config Management
+  - Provisioning
+  - Deployment
+  - Orchestration
+- Functional(Defining Desired State)
+- Ex : Puppet,Chef
+- Image (Incremnted Form)
+- Golden Image Model
+- Container (Just Enough Os)
+- WAR,DB -> Image
+- Immutable infra and Devlivery
+- Docker repo as other Repo
+-
